@@ -10,6 +10,6 @@ Wish to learn more check out our website: https://avancemos.github.io
 ###About the site
 The site was based upon the Creative Theme template from StartBootstrap http://startbootstrap.com/template-overviews/creative/
 
-'''
-git clone https://github.com/BlackrockDigital/startbootstrap-creative.git
-'''
+
+    git clone https://github.com/BlackrockDigital/startbootstrap-creative.git
+
